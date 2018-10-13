@@ -1,0 +1,9 @@
+[submodule ".oh-my-zsh-custom/plugins/zsh-autosuggestions"]
+	path = .oh-my-zsh-custom/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule ".emacs.d.doom"]
+	path = .emacs.d.doom
+	url = https://github.com/hlissner/.emacs.d
+[submodule ".emacs.d.spacemacs"]
+	path = .emacs.d.spacemacs
+	url = https://github.com/syl20bnr/spacemacs
